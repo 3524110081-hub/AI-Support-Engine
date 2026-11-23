@@ -221,3 +221,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# AI Support Engine - Configuración adicional
+
+# Entornos virtuales
+.venv/
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Archivos temporales de Python
+__pycache__/
+
+# Configuración local de VS Code
+.vscode/
